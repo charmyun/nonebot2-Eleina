@@ -1,0 +1,2 @@
+# nonebot2-Eleina
+基于nonebot2开发的群管机器人qbot，支持上传并运行python代码以及一些基础管理功能
